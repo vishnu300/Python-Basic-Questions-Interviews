@@ -1,4 +1,2 @@
 # Star-one
-
-this make for sample dataset provided
-data 
+## Python codes for interview studys 
